@@ -1,1 +1,4 @@
 message: Teste client-service yml DEV
+info:
+  author: Teste dev
+  mail: teste@dev.com
